@@ -49,6 +49,7 @@ we can verify the configuration using VAULT_ADDRurl
 TO Delete the configuration use the below command
 
 vault kv delete secret/customer_service_vault_dev
+![image](https://user-images.githubusercontent.com/21273507/235407769-99f94073-5bd1-45cb-b8a5-48328a1b48e6.png)
 
 we have configure database,databseUser and Databasepassword using followong key
 spring.datasource.database
