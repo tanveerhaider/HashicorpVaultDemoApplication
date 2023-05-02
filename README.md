@@ -36,7 +36,7 @@ Now set vault address
 
 set VAULT_ADDR=http://127.0.0.1:8200
 
-# Please note that this is just a dev grade install for dmeo purpose.The secrets will not be persisted and need to be added in case
+# Please note that this is just a dev grade install for demo purpose.The secrets will not be persisted and need to be added in case
 vault server is restarted.
 
 To verify vault installation launch the url specified by VAULT_ADDR and login using dev-root-token-id
